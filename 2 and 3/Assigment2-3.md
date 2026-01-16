@@ -4,8 +4,7 @@
 commands
 ![ruudunkaappaus](http-history.png)
 site
-
-![ruudunkaappaus](Http-test.png)
+![ruudunkaappaus](http-test.png)
 usersite
 ![ruudunkaappaus](usersite-http.png)
 site with passwd
@@ -14,4 +13,4 @@ site with passwd
 commands used
 ![ruudunkaappaus](SELINUX-commands.png)
 SElinux page after 
-![ruudunkaappaus](SELinux_page.png)
+![ruudunkaappaus](SELinux-page.png)
